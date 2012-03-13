@@ -1,4 +1,6 @@
 /out
 /deps
-*Makefile
+/Makefile
+/gyp-mac-tool
+*.Makefile
 *.mk
